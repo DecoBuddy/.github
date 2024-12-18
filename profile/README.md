@@ -24,7 +24,7 @@ Our mission is to support the global diving community, empowering safer and more
    - Intuitive tools to visualize and plan your dives.
    - Support many diferent parameters.
 
-2. \*_Gas properties_:
+2. **Gas properties:**
 
    - Tool to help you choose the most appropriate gases for your dives.
 
