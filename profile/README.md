@@ -43,7 +43,7 @@ Whether you're a designer, developer, or enthusiast, there's a place for you at 
 
 1. **Explore Our GitHub**:
 
-   - Check out our open-source projects to see how we're building tools for design enthusiasts.
+   - Check out our open-source projects to see how we're building tools for diving enthusiasts.
 
 2. **Contribute Code**:
 
@@ -51,7 +51,7 @@ Whether you're a designer, developer, or enthusiast, there's a place for you at 
    - Submit issues, feature requests, or pull requests on GitHub.
 
 3. **Share Your Ideas**:
-   - Join our discussions and contribute to the growing pool of creative and sustainable solutions.
+   - Join our discussions and contribute to our tools by bringing your ideas.
 
 ---
 
